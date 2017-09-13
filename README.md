@@ -7,10 +7,6 @@ Souce code used by [Victor Widell](https://github.com/geon)'s
 
 **CAUTION** : This add-on is a Toy program. If you try this, I recommend you uninstall.
 
-## Demo
-
-![demo](https://user-images.githubusercontent.com/17570265/30365411-a19755a2-98a2-11e7-9469-4a3726d8ce4d.gif)
-
 ## Install
 
 1. Download `chrome-addon-dsxyliea.crx` from [here](https://github.com/akimach/chrome-addon-dsxyliea/raw/master/chrome-addon-dsxyliea.crx).
