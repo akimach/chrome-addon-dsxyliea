@@ -5,7 +5,7 @@ Chrome add-on version of [todoslosdays's Dsxyliea](http://geon.github.io/program
 Souce code used by [Victor Widell](https://github.com/geon)'s 
 [webpage](http://geon.github.io/programming/2016/03/03/dsxyliea). 
 
-**Cation** : This add-on is a Toy program. If you try this, I recommend you uninstall.
+**CAUTION** : This add-on is a Toy program. If you try this, I recommend you uninstall.
 
 ## Demo
 
